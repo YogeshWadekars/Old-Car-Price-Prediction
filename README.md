@@ -5,6 +5,7 @@
 predict best price for VW Passat B6 TDI basing on real offers from the website.
 <br>
 <br>
+<br>
 
 <ul>
   <li>Language	:   Python</li>
